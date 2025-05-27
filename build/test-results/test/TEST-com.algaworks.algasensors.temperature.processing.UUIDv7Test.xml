@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.algaworks.algasensors.temperature.processing.UUIDv7Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-04-28T18:02:01.188Z" hostname="SEG-LESLEY" time="0.095">
+  <properties/>
+  <testcase name="shouldGenerateUUIDv7()" classname="com.algaworks.algasensors.temperature.processing.UUIDv7Test" time="0.095"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
